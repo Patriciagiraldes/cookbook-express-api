@@ -36,6 +36,6 @@
     "express-load": "^1.1.15",
     "mongodb": "^2.2.11",
     "passport": "^0.3.2",
-    "universal-analytics": "^0.4.6"
+    "universal-analytics": "^0.5.3"
   }
 }
